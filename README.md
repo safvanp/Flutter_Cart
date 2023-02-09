@@ -11,8 +11,7 @@ The screenshots below are taken on a android emulator.
 |------|-------|
 |<img src="./screenshots/Login.jpg" width="300">|<img src="screenshots/Home.jpg" width="300">|
 
-|Category|
-| 1 | 2 |
+| Category1 | Category2 |
 |------|-------|
 |<img src="screenshots/Electronics.jpg" width="300">|<img src="screenshots/Shirt.jpg" width="300">|
 
