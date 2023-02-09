@@ -29,14 +29,7 @@ The screenshots below are taken on a android emulator.
 
 ## What's inside
 
-- Routing
-- State Management using [Provider](https://pub.dev/packages/provider)
-- Authentication and Keep User Login using [Hive](https://pub.dev/packages/hive)
-- Cards, List Items
-- Horizontal ListView, GridView
-- Cart items Stored on locally using [Hive_Flutter](https://pub.dev/packages/hive_flutter)
-- Api Request using [Http](https://pub.dev/packages/http)
-- Internet Data Connection using[internet_connection_checker](https://pub.dev/packages/internet_connection_checker) 
+A new Flutter project.
 
 # Getting Started
 
