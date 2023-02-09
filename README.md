@@ -1,6 +1,6 @@
 # flutter_cart
 
-A new Flutter project.
+A simple shopping application.
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 🖥️ Requirements
+   * Any Operating System (ie. MacOS X, Linux, Windows)
+   * A little knowledge of Dart and Flutter
