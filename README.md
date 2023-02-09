@@ -5,7 +5,7 @@ A simple flutter shopping application.
 <a href="./app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 # 📸 Screenshots
-The screenshots below are taken on a android emulator.
+The screenshots below are taken on a android device.
 
 | Login | Home |
 |------|-------|
