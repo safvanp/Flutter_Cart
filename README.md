@@ -1,8 +1,6 @@
 # flutter_cart [Welcome]
 
 A simple flutter shopping application.
-=======
-A simple shopping application.
 
 # 📸 Screenshots
 The screenshots below are taken on a android emulator.
@@ -11,7 +9,7 @@ The screenshots below are taken on a android emulator.
 |------|-------|
 |<img src="./screenshots/Login.jpg" width="300">|<img src="screenshots/Home.jpg" width="300">|
 
-###### Category
+|Category|
 | 1 | 2 |
 |------|-------|
 |<img src="screenshots/Electronics.jpg" width="300">|<img src="screenshots/Shirt.jpg" width="300">|
@@ -41,6 +39,16 @@ The screenshots below are taken on a android emulator.
 
 # Getting Started
 
+#### 1. Clone and Install
+
+```bash
+# Clone the repo
+git clone https://github.com/safvanp/Flutter_Cart.git
+
+# Navigate to clonned folder and Install dependencies
+cd flutter_eCommerce_ui_kit && flutter packages get
+```
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -55,8 +63,4 @@ samples, guidance on mobile development, and a full API reference.
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## 🖥️ Requirements
-   * Any Operating System (ie. MacOS X, Linux, Windows)
-   * A little knowledge of Dart and Flutter
 
