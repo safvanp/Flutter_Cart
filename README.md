@@ -2,6 +2,8 @@
 
 A simple flutter shopping application.
 
+<a href="./app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
 # 📸 Screenshots
 The screenshots below are taken on a android emulator.
 
@@ -46,7 +48,7 @@ The screenshots below are taken on a android emulator.
 git clone https://github.com/safvanp/Flutter_Cart.git
 
 # Navigate to clonned folder and Install dependencies
-cd flutter_eCommerce_ui_kit && flutter packages get
+cd flutter_cart && flutter packages get
 ```
 
 This project is a starting point for a Flutter application.
