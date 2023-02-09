@@ -9,16 +9,16 @@ The screenshots below are taken on a android emulator.
 
 | Login | Home |
 |------|-------|
-|<img src="./screenshots/Login.jpg" width="300">|<img src="screenshots/Home.jpg" width="300">|
+|<img src="./screenshots/Login.jpg" width="300">|<img src="./screenshots/Home.jpg" width="300">|
 
 | Category1 | Category2 |
 |------|-------|
-|<img src="screenshots/Electronics.jpg" width="300">|<img src="screenshots/Shirt.jpg" width="300">|
+|<img src="./screenshots/Electronics.jpg" width="300">|<img src="./screenshots/Shirt.jpg" width="300">|
 
 
 | Detail | Cart|
 |------|-------|
-|<img src="screenshots/Product Details.jpg" width="300">|<img src="screenshots/Cart.jpg" width="300">|
+|<img src="./screenshots/Product Details.jpg" width="300">|<img src="./screenshots/Cart.jpg" width="300">|
 
 ![FlutterCart!](ui.jpg)
 # ✨ Requirements
@@ -27,6 +27,7 @@ The screenshots below are taken on a android emulator.
 - A little knowledge of Dart and Flutter
 - Some fingers to code 😂
 
+<img src="./ui.jpg" width="300">
 
 ## What's inside
 
