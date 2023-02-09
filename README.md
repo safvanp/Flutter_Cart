@@ -1,10 +1,8 @@
 # flutter_cart [Welcome]
 
-<<<<<<< HEAD
 A simple flutter shopping application.
 =======
 A simple shopping application.
->>>>>>> 81e617bd7e33dd2f746e6dcb4c982e1c1c3dc36b
 
 # 📸 Screenshots
 The screenshots below are taken on a android emulator.
@@ -50,7 +48,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-<<<<<<< HEAD
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
@@ -62,4 +59,4 @@ samples, guidance on mobile development, and a full API reference.
 ## 🖥️ Requirements
    * Any Operating System (ie. MacOS X, Linux, Windows)
    * A little knowledge of Dart and Flutter
->>>>>>> 81e617bd7e33dd2f746e6dcb4c982e1c1c3dc36b
+
