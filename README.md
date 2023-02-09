@@ -21,7 +21,7 @@ The screenshots below are taken on a android emulator.
 |------|-------|
 |<img src="screenshots/Product Details.jpg" width="300">|<img src="screenshots/Cart.jpg" width="300">|
 
-![FlutterCart!](./screenshots/Home.jpg)
+![FlutterCart!](ui.jpg)
 # ✨ Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
