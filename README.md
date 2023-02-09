@@ -15,19 +15,15 @@ The screenshots below are taken on a android device.
 |------|-------|
 |<img src="./screenshots/Electronics.jpg" width="300">|<img src="./screenshots/Shirt.jpg" width="300">|
 
-
 | Detail | Cart|
 |------|-------|
 |<img src="./screenshots/Product Details.jpg" width="300">|<img src="./screenshots/Cart.jpg" width="300">|
 
-![FlutterCart!](ui.jpg)
 # ✨ Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
 - Some fingers to code 😂
-
-<img src="./ui.jpg" width="300">
 
 ## What's inside
 
